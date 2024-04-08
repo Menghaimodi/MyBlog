@@ -5,7 +5,11 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "less": "^4.2.0",
     "pnpm": "^8.15.6",
     "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.2"
   }
 }
