@@ -11,6 +11,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/MyBlog/',
   title: "元首·爱娃~浪漫故事~❤️❤️❤️",
   description: "A VitePress Site",
   themeConfig: {
