@@ -2,7 +2,7 @@
  * @Author: 我会想你的哈哈 12027048+menghaimodi@user.noreply.gitee.com
  * @Date: 2024-04-07 19:48:17
  * @LastEditors: 我会想你的哈哈 12027048+menghaimodi@user.noreply.gitee.com
- * @LastEditTime: 2024-04-08 09:33:26
+ * @LastEditTime: 2024-04-08 10:11:35
  * @FilePath: \web-story\docs\.vitepress\config.mts
  * @Description: ：
  * 
@@ -12,7 +12,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "元首·爱娃~浪漫故事~❤️❤️❤️",
-  base: "/docs/",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
